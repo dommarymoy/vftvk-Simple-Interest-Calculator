@@ -8,7 +8,7 @@ body {
 .maindiv{
     background-color: white;
     color: black;
-    width: 500px;
+    width: 500px; /*Changed the width because the content didn't fit*/
     padding: 20px;
     border-radius: 25px;
     align: center;  
