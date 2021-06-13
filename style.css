@@ -1,4 +1,38 @@
-body {background-color:tan;}
-h1{color:green;}
+/*page style*/
+body {
+    background-color:black;
+    font-family: arial;
+    color: white;
+    line-height: 130%; /* to add separation between the lines*/
+    }
+
+h1{
+    color:grey;
+    font-family:verdana
+    }
+
+.maindiv{
+    background-color: white;
+    color: black;
+    width: 80%;
+    padding: 20px;
+    border-radius: 25px;
+    align: center;  
+    /*center the div on the middle of the page*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    /*center the page*/
+  margin-left: auto;
+  margin-right: auto;  
+}
+
+tr, td {
+    /*formating the table so the content looks better*/
+    padding: 5px;
+}
+
 
 
