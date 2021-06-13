@@ -3,27 +3,24 @@ body {
     background-color:black;
     font-family: arial;
     color: white;
-    line-height: 130%; /* to add separation between the lines*/
     }
+
+.maindiv{
+    background-color: white;
+    color: black;
+    /*width: 300px;*/
+    width: 80%;
+    padding: 20px;
+    border-radius: 25px;
+    align: center;  
+}
 
 h1{
     color:grey;
     font-family:verdana
     }
 
-.maindiv{
-    background-color: white;
-    color: black;
-    width: 300px;
-    padding: 20px;
-    border-radius: 25px;
-    align: center;  
-    /*center the div on the middle of the page*/
-    margin-left: auto;
-    margin-right: auto;
-}
-
-table {
+.center {
     /*center the page*/
   margin-left: auto;
   margin-right: auto;  
